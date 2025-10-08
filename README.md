@@ -41,6 +41,6 @@ dictionnaires
     
 15. Algo : recherche textuelle
     
-16. Programme en tant que donnée
+16. Programme en tant que donnée, calculabilité, décidabilité.
     
 17. SOC
